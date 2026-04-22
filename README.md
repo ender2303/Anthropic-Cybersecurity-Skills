@@ -32,7 +32,7 @@
 
 > ⚠️ **Community Project** — This is an independent, community-created project. Not affiliated with Anthropic PBC. 
 
-## Give any AI agent the security skills of a senior analyst
+## Give any AI agent the security skills of a senior analyst:
 
 A junior analyst knows which Volatility3 plugin to run on a suspicious memory dump, which Sigma rules catch Kerberoasting, and how to scope a cloud breach across three providers. **Your AI agent doesn't — unless you give it these skills.**
 
